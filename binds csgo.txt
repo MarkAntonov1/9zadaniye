@@ -1,0 +1,6 @@
+bind "mouse5" "toggle cl_righthand 1 0"
+bind "c" "use weapon_c4; drop;"
+bind "d" "+moveright;r_cleardecals 1"
+bind "a" "+moveleft;r_cleardecals 1"
+bind mwheeldown "+jump"
+bind mwheelup "+jump"
